@@ -64,13 +64,13 @@ Esse projeto foi feito utilizando as seguintes tecnologias:
 # :construction_worker: Como rodar
 ```bash
 # Clone o Repositoria
-$ git clone https://github.com/joaofnetojfn/ignite-template-reactjs-conceitos-do-react.git
+$ git clone https://github.com/joaofnetojfn/Repository-GitHub-SemEstilo.git
 
 ### 💻 Rode o Project Web
 
 ```bash
 # Vá para a pasta web
-$ cd ignite-temp
+$ cd Repository-GitHub-SemEstilo
 
 # Instale as depedencias
 $ yarn install
@@ -78,8 +78,6 @@ $ yarn install
 # Rode a aplicação
 $ yarn dev
 
-# Rode o teste 
-$ yarn test
 ```
 Acesse: http://localhost:8080/ para ver o resultado.
 
